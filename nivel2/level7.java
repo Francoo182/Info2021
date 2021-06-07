@@ -14,27 +14,25 @@ public class level7 {
 
         List<String> listaNum = new ArrayList<>();
 
-        for (int i = n1; i < n2 ; ++i) {
+        for (int o = n1; o < n2 ; ++o) {
 
-            String l = String.valueOf(i);
+            String l = String.valueOf(o);
 
-            if (i%2 == 0 && i%3 == 0 ) {
+            if (o%2 == 0 && o%3 == 0 ) {
 
                 l = "FizzBazz";
 
             }
 
-            else if (i%2 == 0) {
+            else if (o%2 == 0) {
 
                 l = "Fizz";
             }
 
-            else if ( i%3 == 0) {
+            else if ( o%3 == 0) {
 
                 l = "Buzz";
-            }
-
-            
+            }           
 
             listaNum.add(l);
 

@@ -12,7 +12,7 @@ public class level7 {
 
         String pal = scan.nextLine();
 
-        
+        scan.close();
         String abC = "QWERTYUIOPASDFGHJKLÑZXCVBNM";
 
         String abc = "qwertyuiopasdfghjklñzxcvbnm";
@@ -29,7 +29,7 @@ public class level7 {
 
             }
 
-
+        
         }
 
 

@@ -15,7 +15,7 @@ public class level6 {
         }
         System.out.print(c);
 
-
+        scan.close();
     }
     
 }

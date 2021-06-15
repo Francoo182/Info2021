@@ -1,0 +1,6 @@
+Ramiro,Sandoval,20-01-1980,45678.08
+Juanmanuel,Villalba,23-05-1982,47658.05
+Franco,Zarate,16-07-1985,46581.03
+Abigail,Lopez,19-10-1980,41890.08
+Silvia,Lotero,03-02-1988,45452.07
+Francisco,Perez,08-07-1983,49873.07
